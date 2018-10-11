@@ -105,6 +105,7 @@
 		0AD2A4DC216F808E0062DB0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AD2A4DE216F808E0062DB0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AD2A4DF216F808E0062DB0E /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		0AD2A4F3216F828E0062DB0E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +143,7 @@
 		0AD2A491216F808B0062DB0E = {
 			isa = PBXGroup;
 			children = (
+				0AD2A4F3216F828E0062DB0E /* README.md */,
 				0AD2A49C216F808B0062DB0E /* BaseTimer */,
 				0AD2A4B1216F808D0062DB0E /* BaseTimerTests */,
 				0AD2A4BC216F808D0062DB0E /* BaseTimerUITests */,
